@@ -4,6 +4,7 @@
 - 在build.gradle中配置Thymeleaf开发所需依赖
 - 编写index.html文件，并完成下图所示页面
 ![](./example.png)
+
 - 代码通过小步提交，并且每次提交的描述都要有意义
 - 使用快捷键编码
 
